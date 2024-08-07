@@ -48,7 +48,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📖 Educations
 - *2024.03 - present*, Tokyo Institute of Technology, System and Controling Engineering.
-- *2020.04 - 2024.03*, Tokyo University of Science, Industrial and Systems Engineering, Bachelor of engineering.
+- *2020.04 - 2024.03*, Tokyo University of Science, Industrial and Systems Engineering, Bachelor of Engineering.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
